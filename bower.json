@@ -1,0 +1,21 @@
+{
+  "name": "cryptoprice-dash",
+  "description": "Cryptoprice",
+  "main": "",
+  "authors": [
+    "Somasunder K A"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "polymer/polymer#2.0.0"
+  }
+}
